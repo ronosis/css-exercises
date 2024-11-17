@@ -1,0 +1,16 @@
+.pink_background {
+    background-color: rgb(247, 93, 119);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+.pink_background_big {
+    font-size: 24px;
+}
+#number_4 {
+    background-color: rgb(139, 243, 139);
+    font-weight: bold;
+}
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
